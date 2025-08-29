@@ -14,6 +14,7 @@ const DB_FILE = path.join(__dirname, "books.json");
 // Read all books
 app.get("/books", (req, res) => {
   const data = JSON.parse(fs.readFileSync(DB_FILE, "utf8"));
+  fs.writeFileSync(DB_FILE, JSON.stringify(data, null, 2));
   res.json(data);
 });
 
