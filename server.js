@@ -8,7 +8,8 @@ const PORT = process.env.PORT || 4000;
 app.use(cors());
 app.use(bodyParser.json());
 
-const DB_FILE = "books.json";
+const path = require("path");
+const DB_FILE = path.join(__dirname, "books.json");
 
 // Read all books
 app.get("/books", (req, res) => {
