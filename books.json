@@ -762,5 +762,13 @@
     "rating": "5",
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701221812i/199534613.jpg",
     "id": "84b31875-f151-408b-8781-def8a9441bc1"
+  },
+  {
+    "title": "Salem's Fall",
+    "author": "Rektok Ross",
+    "rating": "3.5",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1749835340i/236453951.jpg",
+    "id": "b524823b-0b20-4e43-a274-18fbc3f6cd92",
+    "isPinned": true
   }
 ]
