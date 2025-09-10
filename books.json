@@ -770,5 +770,12 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1749835340i/236453951.jpg",
     "id": "b524823b-0b20-4e43-a274-18fbc3f6cd92",
     "isPinned": true
+  },
+  {
+    "title": "Nothing Serious",
+    "author": "Emily J. Smith",
+    "rating": "4",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724419957i/213344055.jpg",
+    "id": "e83fb48f-fefc-45f2-8994-a4289675af80"
   }
 ]
