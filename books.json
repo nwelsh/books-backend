@@ -777,5 +777,61 @@
     "rating": "4",
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724419957i/213344055.jpg",
     "id": "e83fb48f-fefc-45f2-8994-a4289675af80"
+  },
+  {
+    "title": "Learning Curves",
+    "author": "Rachel Lacey",
+    "rating": "4",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742839103i/222914654.jpg",
+    "id": "04c03d65-492a-40ec-9bdf-7bfe8fc0f801"
+  },
+  {
+    "title": "A Serial Killer's Guide to Marriage",
+    "author": "Asia Mackay",
+    "rating": "3",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1727378164i/211399774.jpg",
+    "id": "b57ea8ed-7641-46c6-ba87-6f5beafd851d"
+  },
+  {
+    "title": "Blockade Billy",
+    "author": "Stephen King",
+    "rating": "2",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347704033i/7940591.jpg",
+    "id": "8d95a730-5fea-4d71-80ae-2de5f57d92af"
+  },
+  {
+    "title": "You",
+    "author": "Caroline Kepnes",
+    "rating": "4.5",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549463282i/36430011.jpg",
+    "id": "0455b564-1239-4acc-9763-60f9cb2283ba"
+  },
+  {
+    "title": "Camp 1985",
+    "author": "Matthew R. Corr",
+    "rating": "4",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1727750613i/219803907.jpg",
+    "id": "e868cf1b-4af7-4ab1-8698-2194e22d03bb"
+  },
+  {
+    "title": "Carnival Kills",
+    "author": "Caesar Daniel",
+    "rating": "3.5",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1745301419i/231468644.jpg",
+    "id": "3bb2d4d0-b1ba-4f79-9472-ba809c74ec79"
+  },
+  {
+    "title": "Artifacts of an Ex",
+    "author": "Jennifer Chen",
+    "rating": "3.5",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673722799i/59653720.jpg",
+    "id": "062b1387-45eb-4a5a-8d8d-f6e0d24b1ab3"
+  },
+  {
+    "title": "The House of my Mother",
+    "author": "Shari Franke",
+    "rating": "5",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1728843692i/214151420.jpg",
+    "id": "b2d3d752-eed3-46cd-8284-61d14cc7864a"
   }
 ]
